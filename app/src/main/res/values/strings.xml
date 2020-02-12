@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GouGouWords</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="titleClear">Clear Data</string>
+    <string name="titleSearch">Search</string>
+    <string name="titleInsert">Insert Data</string>
+    <string name="titleSwitch">Switch View</string>
+    <string name="nav_words">Words</string>
+    <string name="nav_add">Add</string>
+</resources>

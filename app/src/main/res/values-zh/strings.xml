@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">狗娃新婚版</string>
+    <string name="titleClear">清空数据</string>
+    <string name="titleInsert">插入数据</string>
+    <string name="titleSearch">搜索</string>
+    <string name="titleSwitch">切换视图</string>
+    <string name="nav_words">单词界面</string>
+    <string name="nav_add">单词添加页面</string>
+</resources>
